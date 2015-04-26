@@ -8,7 +8,7 @@ NOTE: the Inertial Signals directory is not used by this script.
 * activity_labels.txt - Activity Labels
 * features.txt - Names of each of the variables in the X_test.txt, and X_train.txt data (561 variables)
 * features_info.txt - Description of the features and labels (For informational purposes only)
-*  - Test Data Directory
+* test/ - Test Data Directory
 * test/X_test.txt - Main data for the test data (2947 rows, 561 columns)
 * test/subject_test.txt - Subject IDs for the test data (2947 rows, 1 column)
 * test/y_test.txt - Activity label IDs for the test data (2947 rows, 1 column)
