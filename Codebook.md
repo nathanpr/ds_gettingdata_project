@@ -5,17 +5,17 @@ The input data can be downloaded from here: https://d396qusza40orc.cloudfront.ne
 ##File Details
 The below files are used in this script:
 NOTE: the Inertial Signals directory is not used by this script.
-* activity_labels.txt:
+* activity_labels.txt - Activity Labels
 * features.txt - Names of each of the variables in the X_test.txt, and X_train.txt data (561 variables)
 * features_info.txt - Description of the features and labels (For informational purposes only)
-* test/ - Test Data Directory
-** X_test.txt - Main data for the test data (2947 rows, 561 columns)
-** subject_test.txt - Subject IDs for the test data (2947 rows, 1 column)
-** y_test.txt - Activity label IDs for the test data (2947 rows, 1 column)
+*  - Test Data Directory
+* test/X_test.txt - Main data for the test data (2947 rows, 561 columns)
+* test/subject_test.txt - Subject IDs for the test data (2947 rows, 1 column)
+* test/y_test.txt - Activity label IDs for the test data (2947 rows, 1 column)
 * train/ - Training Data Direcotry 
-** X_train.txt - Main data for training data (7352 rows, 561 column)
-** subject_train.txt - Subject IDs for the training data (7352 rows, 1 column)
-** y_train.txt - Activity label IDs for the training data (7352 rows, 1 column)
+* train/X_train.txt - Main data for training data (7352 rows, 561 column)
+* train/subject_train.txt - Subject IDs for the training data (7352 rows, 1 column)
+* train/y_train.txt - Activity label IDs for the training data (7352 rows, 1 column)
 
 #Processing Steps
 These are the steps the run_analysis.R takes for the resulting data output.
