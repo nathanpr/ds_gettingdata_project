@@ -99,4 +99,4 @@ allTestTrainTidy <- dcast(allTestTrainMelted, Subject + Activity ~ variable, mea
 #Please upload the tidy data set created in step 5 of the instructions. Please upload your data set as a txt file created with write.table() using row.name=FALSE (do not cut and paste a dataset directly into the text box, as this may cause errors saving your submission).
 # (Each variable you measure should be in one column, Each different observation of that variable should be in a different row).
 
-write.table(allTestTrainTidy, file="./uci_har_dataset_combined_tidy.txt")
+write.table(allTestTrainTidy, file="./uci_har_dataset_combined_tidy.txt", row.name=FALSE)
