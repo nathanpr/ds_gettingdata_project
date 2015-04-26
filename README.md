@@ -14,10 +14,10 @@ Note: This code assumes the data has been downloaded, unzipped, and in the R wor
 The zipped data set can be found here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 #Steps to Run:
-*Download the above dataset to your working directory
-*Unzip data to the working directory
-*Run run_analysis.R
-*View the created tidy data set, named: uci_har_dataset_combined_tidy.txt
+* Download the above dataset to your working directory
+* Unzip data to the working directory
+* Run run_analysis.R
+* View the created tidy data set, named: uci_har_dataset_combined_tidy.txt
 
 #Codebook
 Please see the Codebook.md for a more detailed explaination for variables.
