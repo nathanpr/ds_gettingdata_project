@@ -1,7 +1,7 @@
 # ds_gettingdata_project
 This is my course project for the Getting and Cleaning Data Coursera Course (course #3)
 
-#explains what the analysis did....
+#Explanation of the project:
 Thr run_analysis.R script performs the following steps on the below referenced data set (UCI HAR Dataset):
 *Merges the training and the test sets to create one data set.
 *Extracts only the measurements on the mean and standard deviation for each measurement. 
